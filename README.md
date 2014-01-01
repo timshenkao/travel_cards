@@ -24,7 +24,6 @@ Describe input and output data formats.
 
 Solution:
 1. I have chosen JSON as input format. JSON represents list of cards. Every element of the list is a dictionary
-ОТВЕТ: 1. Приходят входные данные в формате JSON. Файл JSON представляет собой список карточек; каждый элемент списка представляет собой dictionary с ключами: 
 key				value
 from_place		starting point
 to_place		destination
